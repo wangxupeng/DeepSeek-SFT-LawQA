@@ -1,0 +1,28 @@
+# 核心深度学习框架
+torch>=2.0.0
+transformers>=4.34.0
+peft>=0.6.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0
+
+# 数据处理和工具
+datasets>=2.14.0
+tqdm>=4.65.0
+numpy>=1.24.0
+
+# 优化和训练工具
+unsloth>=0.3.0
+wandb>=0.15.11
+
+# 分词和文本处理
+sentencepiece>=0.1.99
+protobuf>=4.24.4
+
+# 科学计算
+scipy>=1.11.0
+
+# 矩阵运算优化
+einops>=0.7.0
+
+# 日志和监控
+tensorboard>=2.14.0 
